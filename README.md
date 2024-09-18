@@ -1,4 +1,3 @@
-# Excel_Sonu_Store_Analysis
 Store Analysis Excel Project This project is focused on analyzing sales data using Microsoft Excel. 
 It involves cleaning and preparing the data, creating pivot tables and charts, and building an interactive dashboard to uncover trends and insights.
 A portfolio project indented to showcase my data cleaning, processing analysis as well as visualization skills. The above visualization is done in Excel.
@@ -20,7 +19,10 @@ Relation between age and gender based on number of orders.
 Which Channel is contributing maximum to the sales?
 Highest selling category?
 
-Project Insight
+
+
+Project Insight![Screenshot (74)](https://github.com/user-attachments/assets/4ebddf95-0619-4c28-8231-ac415a3082be)
+
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
